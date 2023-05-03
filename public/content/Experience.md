@@ -1,7 +1,7 @@
 ## Stutern Ltd
 - *Backend Developer* | June'22 - May'23
 - ![logo512](../assets/stutern.jpeg)
-- Tags: Category 1
+- Tags: Work
 - Badges:
   - Badge [blue]
 - List Items:
