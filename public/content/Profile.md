@@ -2,18 +2,17 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Felix. 
+- I'm a computer/software engineer.
+- I'm a passionate computer engineer, software developer and a clergy man based in Lagos state, Nigeria.
 
 ## About
-Write your "About" section here.
+I have a passion for computer engineering/software development and a strong interest to code. I am a Believer in Christ Jesus; a Reformer and representative of God's Kingdom.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/oyanoghafo-felix-04980936
+- GitHub: https://github.com/EngrFELIX
+- Email: oyanoghafofelix5@gmail.com
 
 ## Logo
-- EB
+- FO
