@@ -1,12 +1,12 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
+## Stutern Ltd
+- *Backend Developer* | June'22 - May'23
+- ![logo512](../assets/stutern.jpeg)
 - Tags: Category 1
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Created a REST API movies rental app that allows users to rent a movie using MongoDB, Mongoose, Express.js 
+  - Created a REST API Learning Management System (Citrone web app) to ease learning activities for students MongoDB, Mongoose, Express.js, Bcrypt, JsonWebToken
 
 ## Company 2
 - *Role* | Feb'23 - Mar'23
