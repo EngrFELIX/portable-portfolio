@@ -1,7 +1,7 @@
 ## Stutern Ltd
 - *Backend Developer* | June'22 - May'23
 - ![logo512](../assets/stutern.jpeg)
-- Tags: Work
+- Tags: Work 1
 - Badges:
   - Badge [blue]
 - List Items:
@@ -11,7 +11,7 @@
 ## Jumia Nigeria
 - *Aftersales Lead* | Sep'17 - Mar'18
 - ![logo512](../assets/jumia.jpeg)
-- Tags: Work
+- Tags: Work 2
 - Badges:
   - Badge [blue]
 - List Items:
@@ -23,7 +23,7 @@
 ## Kingdom Disciples Assembly
 - *Administration Officer/Pastor* | Aug'18 - Feb'22
 - ![logo512](../assets/kingdom.jpeg)
-- Tags: Work
+- Tags: Work 3
 - Badges:
   - Badge [blue]
 - List Items:
