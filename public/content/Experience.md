@@ -30,4 +30,4 @@
  - Management of daily operations in the church, Communication of scheduled meetings and follow-ups with Partners/Ministers required to function at meetings
  - Management of staff payroll, Ensure functionality of office equipment and suppliers as and when necessary
  - Maintaining an accurate financial Records/Book keeping and payment of offerings/tithe into the designated church accounts weekly.
- - Carried out related computer based services abd other assignment communicated by the Lead Pastor
+ - Carried out related computer based services abd other assignment communicated by the Lead Pastor.
