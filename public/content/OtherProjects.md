@@ -1,4 +1,4 @@
-<!-- ## Project 1
+## Project 1
 Description
 - Tags: Category 1
 - Badges:
@@ -6,7 +6,7 @@ Description
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
+<!-- ## Project 2
 Description
 - Tags: Category 2
 - Badges:
