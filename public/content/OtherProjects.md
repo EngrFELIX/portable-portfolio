@@ -1,4 +1,4 @@
-## Project 1
+## My Resume
 Description
 - Tags: Category 1
 - Badges:
