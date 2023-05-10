@@ -1,6 +1,6 @@
 ## Video Rental App
 This is an App for renting out movies.
-- ![600x200](../assets/vidrentals.jpeg)
+- ![600x200](../assets/videorental.jpg)
 - Tags: Category 1
 - Badges:
   - Badge [blue]
