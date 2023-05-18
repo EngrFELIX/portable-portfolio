@@ -10,7 +10,7 @@ This is an App for renting out movies.
 
 ## Stutern Citrone App
 This is an App Redesigned for student and Lecturers.
-- ![600x200](../assets/citrone.jpeg)
+- ![600x200](../assets/citrone.jpeg.jpg)
 - Tags: Category 1
 - Badges:
   - Badge [blue]
