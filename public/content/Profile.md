@@ -7,7 +7,7 @@
 - I'm a passionate computer engineer, software developer and a clergy man based in Lagos state, Nigeria.
 
 ## About
-I have a passion for computer engineering/software development and a strong interest to code. I am a Reformer and representative of God's Kingdom.
+I have a passion for computer engineering/software development and a strong interest and passion about tech. I am a problem solver by heart. I love teaching, learning new things, watching football and surfing the internet.I am a Reformer and representative of God's Kingdom.
 
 ## Contact
 
