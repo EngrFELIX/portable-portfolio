@@ -9,7 +9,7 @@ This is an App for renting out movies.
   - Link [https://vidapp-rentals.onrender.com]
 
 ## Stutern Citrone App
-This is an App Redesigned for student and Lecturers.
+This is an App Redesigned for students and Lecturers to enhance learning and communication.
 - ![600x200](../assets/citrone.jpeg.jpg)
 - Tags: Category 1
 - Badges:
