@@ -6,7 +6,7 @@ This is an App for renting out movies.
   - Badge [blue]
 - Buttons:
   - Github [https://github.com/EngrFELIX/VIDAPP_RENTALS]
-  - Link [https://vidapp-rentals.onrender.com]
+  - Link [https://vidapp-rentals.onrender.com/api/v1/genres]
 
 ## Stutern Citrone App
 This is an App Redesigned for students and Lecturers to enhance learning and communication.
