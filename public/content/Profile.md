@@ -2,7 +2,7 @@
 - Felix Oyanoghafo Portfolio
 
 ## Header
-- Hi, my name is Felix. 
+- Hi, my name is Felix Oyanoghafo. 
 - I'm a computer/software engineer.
 - I'm a passionate computer engineer, software developer and a clergy man based in Lagos state, Nigeria.
 
