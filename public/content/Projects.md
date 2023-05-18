@@ -6,4 +6,4 @@ This is an App for renting out movies.
   - Badge [blue]
 - Buttons:
   - Github [https://github.com/EngrFELIX/VIDAPP_RENTALS]
-  - Link [https://vid-app-rentals.onrender.com/]
+  - Link [https://vid-app-rentals.onrender.com]
