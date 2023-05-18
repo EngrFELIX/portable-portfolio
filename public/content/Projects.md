@@ -15,5 +15,5 @@ This is an App Redesigned for students and Lecturers to enhance learning and com
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Github [https://github.com/EngrFELIX/VIDAPP_RENTALS]
+  - Github [https://github.com/ddoyediran/stutern_citrone_app]
   - Link [https://citrone-redesign-group-a.vercel.app/]
